@@ -21,13 +21,13 @@ https://github.com/sergemoskalenko/LocalizationHelper/blob/master/README.md
 2. Переводим в Google Translate и результат перевода вставляем в поле  «Localized» **[LocalizationHelper](https://github.com/sergemoskalenko/LocalizationHelper)**.
 ![img1](https://github.com/sergemoskalenko/LocalizationHelper/blob/master/03-copy-translated.png)
 
-3. По клику на кнопке таб-бара «Result», we obtain a combined corrected data. мы получим совмещенные исправленные данные. Они сразу автоматически отправляются в буфер обмена. Эти данные просто вставляем в целевой файл .strings в Xcode.
+3. По клику на кнопке таб-бара «Result», мы получим совмещенные исправленные данные. Они сразу автоматически отправляются в буфер обмена. Эти данные просто вставляем в целевой файл .strings в Xcode.
 ![img1](https://github.com/sergemoskalenko/LocalizationHelper/blob/master/04-copy-result-to-xcode.png?raw=true)
 
 Надеюсь, эта программка будет для вас полезной.
 Удачного дня!
 
-Binary for Download Mac OS X 10.8+:
+СКАЧАТЬ - Binary for Download Mac OS X 10.8+:
 https://github.com/sergemoskalenko/LocalizationHelper/blob/master/LocalizationHelper.zip
 
 https://github.com/sergemoskalenko/LocalizationHelper
