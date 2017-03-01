@@ -1,6 +1,9 @@
 # LocalizationHelper
 http://camopu.rhorse.ru/LocalizationHelper
 
+README russian version:
+https://github.com/sergemoskalenko/LocalizationHelper/blob/master/README-ru.md 
+
 I had to deal with multiple **iOS / Mac OS X Xcode** projects
 which were written for a language interface which required further localization into another language.
 
