@@ -1,5 +1,5 @@
 # LocalizationHelper
-http://camopu.rhorse.ru/LocalizationHelper
+<!-- http://camopu.rhorse.ru/LocalizationHelper -->
 
 README russian version:
 https://github.com/sergemoskalenko/LocalizationHelper/blob/master/README-ru.md 
